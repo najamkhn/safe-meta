@@ -1,0 +1,12 @@
+[submodule "safe"]
+	path = safe
+	url = git@github.com:safeapp/safe.git
+[submodule "encfs"]
+	path = encfs
+	url = git@github.com:safeapp/encfs.git
+[submodule "davfuse"]
+	path = davfuse
+	url = git@github.com:safeapp/davfuse.git
+[submodule "protobuf"]
+	path = protobuf
+	url = git@github.com:safeapp/protobuf.git
