@@ -1,6 +1,6 @@
 [submodule "safe"]
 	path = safe
-	url = git@github.com:safeapp/safe.git
+	url = https://github.com/safeapp/safe.git
 [submodule "encfs"]
 	path = encfs
 	url = https://github.com/safeapp/encfs.git
